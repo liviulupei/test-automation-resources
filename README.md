@@ -71,4 +71,4 @@ A curated collection of useful test automation resources, articles, and guides.
 - [What Is Self-Healing Test Automation?](https://endtest.io/blog/self-healing-test-automation-what-it-is-and-how-it-works)
 - [The 12 Best AI Test Automation Tools for 2026](https://endtest.io/blog/best-ai-test-automation-tools-2026)
 - [Playwright vs Selenium in 2026](https://endtest.io/blog/playwright-vs-selenium-2026)
-- [10 Automated Testing Tools for 2026](https://medium.com/p/a059fb19ac07](https://medium.com/@randomsquirrel802/i-tested-10-automated-testing-tools-for-2026-heres-my-honest-ranking-a059fb19ac07))
+- [10 Automated Testing Tools for 2026](https://medium.com/p/a059fb19ac07](https://medium.com/@randomsquirrel802/i-tested-10-automated-testing-tools-for-2026-heres-my-honest-ranking-a059fb19ac07)
